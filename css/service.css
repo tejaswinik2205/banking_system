@@ -1,0 +1,63 @@
+.services .icon-box{
+    padding: 30px;
+    position:-ms-page;
+    
+    overflow:initial;
+    margin: 0 0 40px 0;
+    background: #fff;
+    box-shadow: 0 10px 29px 0 rgb(68,88,144,0.1);
+    transition: all 0.3s ease-in-out;
+    border-radius: 15px;
+    text-align: center;
+    border-bottom: 3px solid #fff;
+  }
+  
+  .services .icon-box:hover{
+    transform: translateY(-5px);
+    border-color: #ef7f4d;
+  }
+  
+  .services .icon i{
+    font-size: 48px;
+    margin-bottom: 15px;
+    color: #ef7f4d;
+  }
+  
+  .services .title{
+    font-weight: 700;
+    margin-bottom: 15px;
+    font-size: 18px;
+  }
+  
+  .services .title a{
+    color: #111;
+  }
+  
+  .services .description{
+       font-size: 15px;
+       line-height: 28px;
+       margin-bottom: 0;
+  } 
+  
+  section {
+    padding: 60px 0;
+  }
+  
+  .section-bg {
+    background-color: #fef8f5;
+  }
+  
+  .section-title {
+    text-align: center;
+    padding-bottom: 30px;
+  }
+  
+  .section-title h2 {
+    font-size: 24px;
+    font-weight: 700;
+    padding-bottom: 0;
+    line-height: 1px;
+    margin-bottom: 15px;
+    color: #c2b7b1;
+  }
+  
